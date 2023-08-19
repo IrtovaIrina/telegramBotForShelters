@@ -1,9 +1,7 @@
-# Project Description
-This project[^1] was written for educational purposes. The goal of this project is to gain the first experience in teamwork.
-[^1]: This project is under development
-***
-# Project Functionality
-This is a telegram bot for a fictional animal shelter designed to provide information of interest to the user.
+# Project description
+Данное приложение - это телеграм-бот, который сможет отвечать на популярные вопросы людей о том,что нужно знать и уметь, чтобы забрать животное из приюта.
+Так же этот телеграм-бот контролирует по отчётам новых хозяев животного, как оно приспосабливается к новым хозяевам и новым условиям жизни.
+
 ***
 # Technologies and frameworks
 1. Maven.
